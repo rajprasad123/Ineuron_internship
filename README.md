@@ -55,6 +55,10 @@ You can find the dataset on the given link
 
 https://drive.google.com/drive/folders/1ANkgtAT0Pdp2r86IxFKv9vKYmnsYjJDO?usp=sharing
 
+## Demo Video
+
+https://drive.google.com/file/d/1L8fn1tWkTk7_Qey6njV9yls4TOzB2kfl/view?usp=drive_link
+
 ## Screenshots
 
 ![Airbnb dashboard updated](https://github.com/rajprasad123/Ineuron_internship/assets/132429168/3d3b9805-ffbc-44ee-b580-feeb544698e4)
